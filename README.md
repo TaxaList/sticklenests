@@ -13,5 +13,8 @@ Count the number of nests that are <= 2.5 and > 2.5 in the same day.
 ## Dis
 Compute distance between nests.
 
+## Dis_vaxvms
+Compute distance between nests. Updated for vax/vms.
+
 ## Settle
 Compute average distance of settle nests.
